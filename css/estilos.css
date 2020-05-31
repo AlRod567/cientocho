@@ -777,7 +777,7 @@ div.img-sobre-mi {
     }
 
     .proyectos {
-        height: 650px
+        height: auto;
     }
 
     .proyectos .logo {
